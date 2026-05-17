@@ -140,7 +140,6 @@ project/
 │
 ├── main.py
 ├── vector.py
-├── requirements.txt
 └── README.md
 ```
 
